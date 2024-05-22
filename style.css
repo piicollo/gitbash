@@ -1,0 +1,35 @@
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+}
+
+li {
+    float: left;
+}
+
+li a {
+    display: block;
+    padding: 10px;
+    background-color: #ff33ff;
+    text-decoration: none;
+}
+.zero a:hover {
+    color: #00ffff;
+}
+.hq {
+    background-image: url(img.jpg);
+}
+
+body {
+    background-color: #00ffff;
+}
+
+#two {
+    background-repeat: repeat-x;
+}
+
+#three {
+    border-radius: 25%;
+}
